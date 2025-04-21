@@ -19,5 +19,8 @@ API_KEY_SJ='ваш ключ API(SuperJob)'
 ```python
 python script.py
 ```
+### Пример
+<img width="405" alt="Снимок экрана 2025-04-21 в 04 11 45" src="https://github.com/user-attachments/assets/c79c2916-b9c6-44f8-937b-74ae393921ab" />
+
 ## Цель проекта
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org/).
